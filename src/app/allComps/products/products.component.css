@@ -1,0 +1,14 @@
+table{
+    margin-top: 10px;
+    padding: 50px;
+}
+
+form{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+label{
+    font-weight: 200;
+    font-size: large;
+}

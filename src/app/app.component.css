@@ -1,0 +1,20 @@
+
+
+ul{
+    display: flex;
+    list-style: none;
+    background-color: blue;   
+    margin: 0px; 
+    padding: 0px;
+}
+
+a{
+ text-decoration: none;
+ display: block;
+ color: white;
+ padding: 14px 16px;
+}
+
+li a:hover{
+    background-color: rgb(125, 164, 199);
+}

@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "productName": "i-phone",
+      "productPrice": 55000,
+      "description": "This is the most seller i phone."
+    },
+    {
+      "id": 2,
+      "productName": "Mack Book",
+      "productPrice": 65000,
+      "description": "This is the most seller i phone."
+    },
+    {
+      "id": 3,
+      "productName": "Notepad",
+      "productPrice": 15000,
+      "description": "This is the most seller Notepad."
+    },
+    {
+      "id": 4,
+      "productName": "samsung x on",
+      "productPrice": 45111,
+      "description": "samsumg extra features mobile."
+    },
+    {
+      "id": 5,
+      "productName": "sandisk pendrive",
+      "productPrice": 5000,
+      "description": "320 gb size "
+    },
+    {
+      "id": 6,
+      "productName": "vivo book",
+      "productPrice": 55000,
+      "description": "first mobile"
+    },
+    {
+      "id": 7,
+      "productName": "vivo book",
+      "productPrice": 45000,
+      "description": "new book for eduacation"
+    },
+    {
+      "id": 8,
+      "productName": "Apple Airbuds",
+      "productPrice": 10000,
+      "description": "extra bass"
+    },
+    {
+      "id": 9,
+      "productName": "sandisk pendrive",
+      "productPrice": 3200,
+      "description": "20 gb "
+    },
+    {
+      "id": 10,
+      "productName": "hp charger",
+      "productPrice": 1200,
+      "description": "new "
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+<p>parent works!</p>
+<p>Child val is: {{childVal}}</p>
+
+<label >Enter From Parent:</label> 
+<input type="text" [(ngModel)]="parentVal">
+
+
+
+
+<hr>
+
+
+<app-child [parentData]="parentVal" (childEvent)="childVal=$event"></app-child>
